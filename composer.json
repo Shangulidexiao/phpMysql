@@ -1,0 +1,21 @@
+{
+    "name": "phpmysql/phpmysql",
+    "description": "php mysql libraries",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "han.jian",
+            "email": "916117482@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPMysql\\": "src/phpmysql"
+        }
+    }   
+}
