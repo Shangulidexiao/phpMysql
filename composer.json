@@ -17,5 +17,6 @@
         "psr-4": {
             "PHPMysql\\": "src/phpmysql"
         }
-    }   
+    },
+    "prefer-stable": true   
 }
